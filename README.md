@@ -1,1 +1,2 @@
-# go-learn
+# Go语言学习(快速入门代码)
+Learning...
